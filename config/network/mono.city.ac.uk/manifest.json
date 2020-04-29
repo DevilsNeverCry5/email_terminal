@@ -1,7 +1,7 @@
 {
     "serverAddress": "mono.city.ac.uk",
-    "serverName": "Monochrome BBS",
-    "iconName": "cmd.png",
+    "serverName": "Thibodeaux Police Department",
+    "iconName": "TPD.jpg",
     "terminalID": "city",
     "defaultUser": {
         "userId": "user",
