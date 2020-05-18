@@ -1,8 +1,8 @@
 {
-    "serverAddress": "fbi.gov",
-    "serverName": "Federal Bureau of Investigation",
-    "iconName": "fbi.png",
-    "terminalID": "fbi",
+    "serverAddress": "Thibodeux.state.la.us",
+    "serverName": "Thibodeuax Polic Department",
+    "iconName": "thib.jpg",
+    "terminalID": "TCPD",
     "defaultUser": {
         "userId": "user",
         "password": "",
